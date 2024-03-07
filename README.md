@@ -7,6 +7,12 @@ API call to logger service
 ```bash
 sudo docker compose up
 ```
+- access to RabbitMQ
+http://localhost:5672
+
+- login: guest
+- password - guest
+
 
 creae folder loggerMS
 ```bash
