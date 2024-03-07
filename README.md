@@ -13,6 +13,7 @@ creae folder loggerMS
 npm init -y
 
 npm i amqplib
+npm i express body-parser
 ```
 
 - Steps to produce a message
