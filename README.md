@@ -8,7 +8,7 @@ API call to logger service
 sudo docker compose up
 ```
 - access to RabbitMQ
-http://localhost:5672
+http://localhost:15672
 
 - login: guest
 - password - guest
